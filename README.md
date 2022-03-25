@@ -22,3 +22,18 @@ São ramificações / versões paralelas
 - DOD Definition of Done: critérios de aceite
 - versionamento 1.0.0
 
+## Merge
+Mescla as branchs
+Você pode precisar resolver conflitos manualmente
+
+git merge main
+
+## Pull Requests
+Mescla de branchs no repositório
+Permite code review
+O repositório resolve os conflitos automaticamente
+
+## Configurar o Gitflow
+git flow init
+git flow feature start nome-da-feature
+
